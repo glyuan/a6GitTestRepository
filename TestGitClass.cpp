@@ -2,7 +2,7 @@
 #include <iostream> 
 
 TestGitClass::TestGitClass() {
-	TestGitClass::content = 1; 
+	TestGitClass::content = 2; 
 }
 
 void TestGitClass::output() {

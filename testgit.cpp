@@ -2,9 +2,8 @@
 #include "TestGitClass.h"
 
 int main() {
-	std::cout<< "hello world!" << std::endl;
-	std::cout<< "test things here"<<std::endl;
-	std::cout<< "2 + 2 = "; 
+	std::cout<< "hello world! tests below!" << std::endl;
+	std::cout<< "2 + 2 = 4"; 
 	std::cout<< std::endl;
 
 	TestGitClass test; 
